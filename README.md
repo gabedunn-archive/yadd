@@ -40,6 +40,10 @@ yadd new-package
 
 # use npm and add new dependencies:
 yadd -n new-package
+
+# if running the command yadd doesn't make sense you can use the alias yup
+# it does the exact same thing and autocompletion works the same as well
+yup
 ```
 
 ## Author
